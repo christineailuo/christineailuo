@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christineailuo
 - 👀 I’m interested in frontend development, UI design, & content creation
-- 🌱 I’m currently learning Next JS, React JS, Tailwind CSS, and Firebase
+- 🌱 I’m currently learning Next JS, React JS, Tailwind CSS, Firebase, and Korean
 - 📫 How to reach me - christine.ai.luo@gmail.com
 
 <!---
